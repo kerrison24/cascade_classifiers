@@ -2,7 +2,7 @@
 Built using [OpenCV](http://opencv.org/)
 
 ## Giveway Sign Classifiers
-5 different giveway sign classifiers trained to different stages with different negative and positive images
+5 different giveway sign classifiers trained to different stages with varying amounts of negative and positive images
 
 - givewaysign_classifier_v1: trained to 11 stages with 3500 neg and pos images
 - givewaysign_classifier_v2: trained to 7 stages with 1900 neg and pos images
