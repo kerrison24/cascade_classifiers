@@ -1,7 +1,7 @@
 # A collection of Cascade Classifiers
 Built using [OpenCV](http://opencv.org/)
 
-## Giveway Sign Classifiers
+## Giveway Sign Classifiers (Australia)
 5 different giveway sign classifiers trained to different stages with varying amounts of negative and positive images
 
 - givewaysign_classifier_v1: trained to 11 stages with 3500 neg and pos images
